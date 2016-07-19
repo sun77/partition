@@ -1,0 +1,7 @@
+name             'partition'
+maintainer       'Anthony RABIER'
+maintainer_email 'a.rabier@criteo.com'
+license          'All rights reserved'
+description      ''
+long_description 'Installs/Configures partition'
+supports         'linux'
